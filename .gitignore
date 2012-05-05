@@ -1,1 +1,4 @@
 *.out
+download/
+output.txt
+.DS_Store
